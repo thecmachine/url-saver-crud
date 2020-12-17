@@ -1,6 +1,9 @@
 ## About Laravel
 
-- Clone Git [Repository]().
+- Clone Git [Repository](https://github.com/thecmachine/url-saver-crud.git) / $ `git clone https://github.com/thecmachine/url-saver-crud.git`
+
+- Checkout MASTER Branch (Not Main). $ `git checkout master` 
+
 - Setup Localhost, I'm using http://url-saver-crud.test/ as a vhost
 - Database Credentials Here:
 ```
